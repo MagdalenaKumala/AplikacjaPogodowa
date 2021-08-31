@@ -1,1 +1,1 @@
-# AplikacjaPogodowa
+# Aplikacja z pogodą 
